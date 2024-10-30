@@ -1,4 +1,22 @@
 body{
-    background-color: gray;
-    color: white;
+    background-color: rgb(221, 218, 218);
+    color: black;
 }
+
+main{
+    display: flex;
+    height: calc(100vh);
+}
+
+#list{
+    background-color: rgba(128, 128, 128, 0.384);
+    flex: 2;
+    ;
+}
+
+#form{
+    background-color: rgba(128, 128, 128, 0.384);
+    flex: 2;
+    ;
+}
+
